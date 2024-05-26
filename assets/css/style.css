@@ -1,0 +1,17 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    font-weight: bold;
+    background-color: rgb(226, 226, 226);
+}
+
+#searchForm {
+    padding-left: 38%;
+}
+
+#heroId {
+    width: 20rem;
+}
+
+#heroInfo {
+    font-size: medium;
+}
